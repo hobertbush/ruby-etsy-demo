@@ -4,7 +4,3 @@
 *.cache
 
 *.pid
-
-*.pid
-
-*.log
